@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+li {
+  margin-left: 15px;
+}
+.container {
+  position: relative;
+max-width: 600px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.isnt {
+  text-align: right;
+}
+
+.period {
+  position: relative;
+  float: right;
+}
+
+.bigemptybox {
+  height: 150px;
+}
+.dog {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
